@@ -11,6 +11,8 @@
         "guzzle/guzzle": "3.8.*"
     },
     "autoload": {
-        "psr-0": { "LoneSatoshi\Api": "src" }
+        "psr-0": {
+          "LoneSatoshi\\Api": "src"
+        }
     }
 }
